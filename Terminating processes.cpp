@@ -65,7 +65,7 @@ void closeProcess(Process& process) {
             << process.duration_seconds << " секунд." << std::endl;
     }
 
-    // Ждём заданное количество времени
+    // Ожидание заданное количество времени
     std::this_thread::sleep_for(std::chrono::seconds(process.duration_seconds));
 
     {
