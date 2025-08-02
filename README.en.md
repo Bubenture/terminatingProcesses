@@ -41,25 +41,25 @@
           v
 +---------------------+
 |  Display List of    |
-|  Active Processes    |
+|  Active Processes   |
 +---------------------+
           |
           v
 +---------------------+
 |  Input PID and Time |
-|  Until Termination   |
+|  Until Termination  |
 +---------------------+
           |
           v
 +---------------------+
-|  Create Threads for  |
-|  Process Termination  |
+| Create Threads for  |
+| Process Termination |
 +---------------------+
           |
           v
 +---------------------+
 |  Wait for All       |
-|  Threads to Finish   |
+|  Threads to Finish  |
 +---------------------+
           |
           v
