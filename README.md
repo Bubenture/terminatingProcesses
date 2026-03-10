@@ -1,4 +1,4 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README/README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
 </br>
 #### Программа на C++ предназначена для управления процессами в операционной системе Windows. Она позволяет пользователю выбирать активные процессы и устанавливать таймеры для их завершения через заданное количество секунд. Программа использует многопоточность для одновременного выполнения таймеров для нескольких процессов.
 
