@@ -1,4 +1,4 @@
-<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
+<a href="../README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUoff.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGon.svg"></a>
 </br>
 #### The C++ program is designed for managing processes in the Windows operating system. It allows users to select active processes and set timers for their termination after a specified number of seconds. The program utilizes multithreading to simultaneously execute timers for multiple processes.
 
