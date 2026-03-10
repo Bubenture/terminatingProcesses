@@ -1,14 +1,6 @@
-#### Программа на C++ предназначена для управления процессами в операционной системе Windows. Она позволяет пользователю выбирать активные процессы и устанавливать таймеры для их завершения через заданное количество секунд. Программа использует многопоточность для одновременного выполнения таймеров для нескольких процессов.
-
+<a href="README.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/RUon.svg"></a><a href="README.en.md"><img width="40" src="https://github.com/Bubenture/Bubenture/blob/main/language/ENGoff.svg"></a>
 </br>
-<div>
-    <a href="README.md">
-        <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
-    </a>
-    <a href="README.en.md">
-        <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
-    </a>
-</div>
+#### Программа на C++ предназначена для управления процессами в операционной системе Windows. Она позволяет пользователю выбирать активные процессы и устанавливать таймеры для их завершения через заданное количество секунд. Программа использует многопоточность для одновременного выполнения таймеров для нескольких процессов.
 
 ### Основные функции программы:
 - Получение списка процессов: Программа создает снимок всех активных процессов с помощью функции `CreateToolhelp32Snapshot` и сохраняет информацию о них в векторе.
